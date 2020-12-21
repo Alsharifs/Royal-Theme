@@ -1,4 +1,4 @@
-Wonderful Colored and very highly customized Theme based on my Atom theme
+Wonderful Colored and very highly customized Theme based on Atom theme
 
 Optimized for All Languages.
 
