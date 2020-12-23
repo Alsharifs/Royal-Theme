@@ -1,0 +1,33 @@
+{
+    "name": "royal-theme",
+    "displayName": "Royal Theme",
+    "description": "Wonderful Colored and highly customized Theme",
+    "version": "0.0.3",
+    "publisher": "alsharifs",
+    "repository": "https://github.com/Alsharifs/Royal-Theme",
+
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "atom",
+        "theme",
+        "Dark",
+        "Royal"
+
+    ],
+    "icon": "icon.png",
+    
+    "contributes": {
+        "themes": [
+            {
+                "label": "Royal Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Royal Theme-color-theme.json"
+            }
+        ]
+    }
+}
