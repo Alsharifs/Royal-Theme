@@ -50,6 +50,18 @@
 
 ---
 
+## 🌊 Also available: Royal Theme Blue
+
+Prefer a deep cobalt background? **[Royal Theme Blue](https://marketplace.visualstudio.com/items?itemName=alsharifs.royal-theme-blue)** keeps the royal gold accents on a `#193549` blue workbench. [See its screenshots and palette →](royal-theme-blue/)
+
+[![Royal Theme Blue](https://raw.githubusercontent.com/Alsharifs/Royal-Theme/main/royal-theme-blue/images/screenshot-javascript.png)](royal-theme-blue/)
+
+```bash
+code --install-extension alsharifs.royal-theme-blue
+```
+
+---
+
 ## 🎨 Colour palette
 
 ![Royal Theme colour palette](https://raw.githubusercontent.com/Alsharifs/Royal-Theme/main/images/palette.png)
@@ -158,6 +170,7 @@ Royal-Theme/
 ├── themes/
 │   └── Royal Theme-color-theme.json   # all UI colours + syntax token rules
 ├── images/                            # README screenshots and banner
+├── royal-theme-blue/                  # Royal Theme Blue (its own extension)
 ├── icon.png                           # Marketplace icon
 ├── package.json                       # extension manifest
 └── CHANGELOG.md

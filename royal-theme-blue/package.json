@@ -1,0 +1,50 @@
+{
+    "name": "royal-theme-blue",
+    "displayName": "Royal Theme blue",
+    "description": "A deep cobalt-blue dark theme crowned with royal gold, with 219 UI colours and 259 hand-tuned syntax rules.",
+    "version": "2.3.0",
+    "publisher": "alsharifs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Alsharifs/Royal-Theme",
+        "directory": "royal-theme-blue"
+    },
+    "bugs": {
+        "url": "https://github.com/Alsharifs/Royal-Theme/issues"
+    },
+    "homepage": "https://github.com/Alsharifs/Royal-Theme/tree/main/royal-theme-blue#readme",
+
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "blue",
+        "blue theme",
+        "cobalt",
+        "atom",
+        "theme",
+        "color theme",
+        "dark",
+        "dark theme",
+        "gold",
+        "royal"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#15232d",
+        "theme": "dark"
+    },
+
+    "contributes": {
+        "themes": [
+            {
+                "label": "Royal Theme blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Royal Theme Blue-color-theme.json"
+            }
+        ]
+    }
+}
