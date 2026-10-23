@@ -1,10 +1,17 @@
 {
     "name": "royal-theme",
     "displayName": "Royal Theme",
-    "description": "Wonderful Colored and highly customized Theme",
-    "version": "0.0.3",
+    "description": "A rich, gold-accented dark theme built on Atom One Dark, with 139 UI colours and 257 hand-tuned syntax rules.",
+    "version": "7.7.0",
     "publisher": "alsharifs",
-    "repository": "https://github.com/Alsharifs/Royal-Theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Alsharifs/Royal-Theme"
+    },
+    "bugs": {
+        "url": "https://github.com/Alsharifs/Royal-Theme/issues"
+    },
+    "homepage": "https://github.com/Alsharifs/Royal-Theme#readme",
 
     "engines": {
         "vscode": "^1.52.0"
@@ -14,13 +21,21 @@
     ],
     "keywords": [
         "atom",
+        "atom one dark",
+        "one dark",
         "theme",
-        "Dark",
-        "Royal"
-
+        "color theme",
+        "dark",
+        "dark theme",
+        "gold",
+        "royal"
     ],
     "icon": "icon.png",
-    
+    "galleryBanner": {
+        "color": "#21252b",
+        "theme": "dark"
+    },
+
     "contributes": {
         "themes": [
             {
